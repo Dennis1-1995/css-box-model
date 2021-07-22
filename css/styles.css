@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Fuggles&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+  border: 1px solid #b7b6cc;
+  padding: 10px;
+  margin: 5px 0 25px;
+}
+main {
+  border: 1px solid #b7b6cc;
+  padding: 10px;
+  margin: 5px 0 25px;
+}
+
+h1 {
+  font-family: cursive;
+  color: deepskyblue;
+  font-weight: 400;
+}
+a {
+  text-decoration: none;
+}
+.container-page {
+  width: 80%;
+  margin: auto;
+}
+.h2-header {
+  border: 1px dotted black;
+  background-color: cornflowerblue;
+  color: aliceblue;
+  padding: 3px;
+}
+.container {
+  display: inline-block;
+}
+.list {
+  list-style: circle;
+}
+
+.font-link {
+  font-family: "Fuggles", cursive;
+  font-size: 3rem;
+  font-weight: bold;
+}
+.list-menu {
+  list-style: none;
+  display: inline-flex;
+}
+.list-menu li {
+  margin-left: 15px;
+}
+#logo-tekst {
+  font-family: "Fuggles", cursive;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: auto;
+}
+
+.container-avatar {
+  display: inline-flex;
+}
+.avatar-img {
+  border-radius: 100px;
+  height: 200px;
+}
+.avatar-tekst {
+  padding: 5px 100px 0px 15px;
+  margin-left: 50px;
+  border: 1px solid #b7b6cc;
+  background-color: #f0f8ff;
+}
+.avatar-tekst h3 {
+  color: #8b008b;
+  font-weight: 400;
+}
